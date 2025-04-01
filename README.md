@@ -1,2 +1,1 @@
-# Programbanner
-Dragchann
+# Programbanne
